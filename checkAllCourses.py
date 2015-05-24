@@ -1,0 +1,3 @@
+# checkAllCourses.py
+
+
